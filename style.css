@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    text-align: center;
+    margin-top: 100px;
+    background-color: rgb(221, 230, 238);
+}
+h1 {
+    color: rgb(124, 91, 91);
+    font-family: 'rubik', sans-serif;
+}
+.contact img {
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+}
+button {
+    background-color: rgb(124, 91, 91);
+    border-radius: 5px;
+    padding-top: 2px;
+    margin: 5px;
+    text-align: center;
+    color: #fff;
+    box-shadow: 0 0 10px rgb(124, 91, 91);
+}
